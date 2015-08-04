@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class DistroyByContact : MonoBehaviour 
+public class DestroyByContact : MonoBehaviour 
 {
 	public GameObject explosion;
 	public GameObject PlayerExplosion;

@@ -3,6 +3,8 @@ using System.Collections;
 
 public class GameController : MonoBehaviour
 {
+	public float Vector3;
+
 	public GameObject hazard;
 	public Vector3 spawnValues;
 	public int hazardCount;
